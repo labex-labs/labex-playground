@@ -12,7 +12,7 @@ This course provides a series of playground labs for you to practice your skills
 ![C++](https://img.shields.io/badge/C++-whitesmoke?style=for-the-badge&logo=c++)
 ![Java](https://img.shields.io/badge/Java-whitesmoke?style=for-the-badge&logo=java)
 ![MySQL](https://img.shields.io/badge/MySQL-whitesmoke?style=for-the-badge&logo=mysql)
-![Go](https://img.shields.io/badge/Go-whitesmoke?style=for-the-badge&logo=go)
+![Golang](https://img.shields.io/badge/Golang-whitesmoke?style=for-the-badge&logo=golang)
 ![Rust](https://img.shields.io/badge/Rust-whitesmoke?style=for-the-badge&logo=rust)
 
 
@@ -48,5 +48,5 @@ Learn more about [LabEx VM](https://support.labex.io/using-labex/virtual-machine
 
 - 🔗 [ Programming Courses](https://github.com/labex-labs/awesome-programming-courses)
 - 🔗 [ Programming Projects](https://github.com/labex-labs/awesome-programming-projects)
-- 🔗 [ Free Tutorials](https://github.com/labex-labs/-free-tutorials)
+- 🔗 [ Free Tutorials](https://github.com/labex-labs/linux-free-tutorials)
 
